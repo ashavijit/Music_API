@@ -1,0 +1,13 @@
+{
+    "name": "MusicFlaskAPI",
+    "description": "Unofficial Music Api By JIOSAAVN.",
+    "author": "Avijit",
+    "keywords": [
+        "flask",
+        "python",
+        "saavn",
+        "jiosaavn",
+        "music"
+    ],
+    "repository": "https://github.com/cyberboysumanjay/JioSaavnAPI"
+}
