@@ -12,7 +12,7 @@ CORS(app)
 
 @app.route('/')
 def home():
-    return redirect("https://jiosaavnapi.herokuapp.com/")
+    return redirect("https://music-api-unofficial.herokuapp.com/")
 
 @app.route('/song/')
 def search():
